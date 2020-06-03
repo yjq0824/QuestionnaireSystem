@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/renwu_jianying-007.jpg);
+    background-size: 100%;
+}
+
+.form_div{
+    width:1400px;
+    height: 600px;
+    position: relative;
+    left:300px;
+    top:100px;
+    right: 100px;
+    bottom: 100px;
+}

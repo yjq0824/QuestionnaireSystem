@@ -1,0 +1,39 @@
+body{
+    background-image: url(images/renwu_jianying.jpg);
+    background-size: 100%;
+    
+}
+.first_div{
+    background-color: aliceblue;
+    opacity: 0.6;
+    width:400px;
+    height: 400px;
+    position: relative;
+    left: 1000px;
+    top:200px;
+    right: 100px;
+    bottom: 100px;
+}
+.username{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+}
+text{
+    font-size: 20px;
+    font-family: "黑体";
+
+}
+.row_login{
+    margin-top: 35px;
+}
+.row_repwd{
+    margin-top: 30px;
+}
+.tips{
+    font-size: 12px;
+}
+.remenber{
+    margin-top: -30px;
+}
+
